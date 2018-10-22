@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_caca9d035cd064c8a860ed3927c04d6186449c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.4_4af3f231fe3db221019d17f204cbf5266f390497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_d7c17916d3dcf47a14548101734aa256159463a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_cc90a35d13f1fd90a73309f16b03a09805fe0ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_0486442154c91de481d8d442968198ae3b766fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_9c28517bed590b2d721d4d287c24c5f50b0a84d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.4_63ccd9a8db67190a9a999b035d543df2f312ea65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_462ec48e9c870bcdd6709fb39593102ee474c20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_bcdf9be4450dfc8df0ccbcc70329f8a55bcbca1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_6669146cc1d1f67966a0874d8a2ea1f800c1e089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_98e6a835b675ab33dce3785b04ed16c3075168ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_8d812f87da2cceaf2fc96acd77c26b5015eaabb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_0f222ad0c3aaa2866fdf92a700c5a03aad8f7aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_320cd9a8bfdd0725804272cf47257aa6f25afd78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_472696bda085608022637d85806a19ce9bb8c90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_e88da49c9602c7bc39ddbf2d3beaa6c6518e47d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.0.4_d7ee7ac4b1a85fe829506827b7e0dffe556ecd36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_8bff2c3a00d2d27f6a6ee33eee32b8afca239cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_351c09929e248efb832be354c7ece41f92529f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.4_b07081e8e7d399277c82ffcef691267e74152489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_4a4f6ef48c275b2668fc47da017d7deac4dc915c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_fb7613ed41c5f3851fc40717068fd18177ecdb15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_4560cc9e7784efeb49e15e81c3b4906c4ff1a99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_3ab1ad1632939bfb017bc83c40bb4a728de1d6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_8e2826d822d91d70365d99693bfad228dd43c2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_a4fe35a87ce947c60038918da13493ab4adb7771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.6.2_9636c116fbd6580f1a06b977ed574aa36b02d503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WIN 10\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_2326fc07ef278f4a307e546c4599e8f41e3e041c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_c785aa03f6e4bf8ac38eb48e2c292338fbcb8237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\RakthDaan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="G:\RakthDaan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_d09a58f8196e8812f3eeff42a8f522071bb95ac9.jar" />
+    </item>
+
+</items>
